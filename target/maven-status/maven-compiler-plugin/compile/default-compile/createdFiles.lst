@@ -1,0 +1,4 @@
+com\contactura\contactura\model\Contactura.class
+com\contactura\contactura\ContacturaApplication.class
+com\contactura\contactura\controller\ContacturaController.class
+com\contactura\contactura\repository\ContacturaRepository.class
